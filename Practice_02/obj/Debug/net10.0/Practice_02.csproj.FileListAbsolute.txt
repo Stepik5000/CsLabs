@@ -1,0 +1,15 @@
+C:\Users\smoro\source\repos\ServerConfig\Practice_02\bin\Debug\net10.0\Practice_02.exe
+C:\Users\smoro\source\repos\ServerConfig\Practice_02\bin\Debug\net10.0\Practice_02.deps.json
+C:\Users\smoro\source\repos\ServerConfig\Practice_02\bin\Debug\net10.0\Practice_02.runtimeconfig.json
+C:\Users\smoro\source\repos\ServerConfig\Practice_02\bin\Debug\net10.0\Practice_02.dll
+C:\Users\smoro\source\repos\ServerConfig\Practice_02\bin\Debug\net10.0\Practice_02.pdb
+C:\Users\smoro\source\repos\ServerConfig\Practice_02\obj\Debug\net10.0\Practice_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smoro\source\repos\ServerConfig\Practice_02\obj\Debug\net10.0\Practice_02.AssemblyInfoInputs.cache
+C:\Users\smoro\source\repos\ServerConfig\Practice_02\obj\Debug\net10.0\Practice_02.AssemblyInfo.cs
+C:\Users\smoro\source\repos\ServerConfig\Practice_02\obj\Debug\net10.0\Practice_02.csproj.CoreCompileInputs.cache
+C:\Users\smoro\source\repos\ServerConfig\Practice_02\obj\Debug\net10.0\Practice_02.dll
+C:\Users\smoro\source\repos\ServerConfig\Practice_02\obj\Debug\net10.0\refint\Practice_02.dll
+C:\Users\smoro\source\repos\ServerConfig\Practice_02\obj\Debug\net10.0\Practice_02.pdb
+C:\Users\smoro\source\repos\ServerConfig\Practice_02\obj\Debug\net10.0\Practice_02.genruntimeconfig.cache
+C:\Users\smoro\source\repos\ServerConfig\Practice_02\obj\Debug\net10.0\ref\Practice_02.dll
+C:\Users\smoro\source\repos\ServerConfig\Practice_02\obj\Debug\net10.0\Practice.D61C2841.Up2Date
